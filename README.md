@@ -1,6 +1,16 @@
 # RAG-LLM Pipeline for Extracting and Generating Insights from PDF/XML File
 
-DOI Zenodo badge: \<[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)\>
+<a href="https://colab.research.google.com/github/semanticClimate/RAG-LLM-with-PDF-XML/blob/main/FSCI2025_RAG_LLM_PDF.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" style="max-width: 100%;">
+</a>
+
+DOI Zenodo badge: 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16675979.svg)](https://doi.org/10.5281/zenodo.16675979)
+
+Citation:
+
+Barbhuiya, S., Alwi, K. K., Kumari, R., S., A., Jawed, M., Simon, W., Yadav, G., & Murray-Rust, P. (2025). RAG-LLM Pipeline for Extracting and Generating Insights from PDF/XML File (0.2). Zenodo. https://doi.org/10.5281/zenodo.16675979
 
 Description: 
 
